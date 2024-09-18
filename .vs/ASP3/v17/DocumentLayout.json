@@ -50,8 +50,7 @@
               "RelativeToolTip": "ASP3\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T15:02:55.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T15:02:55.629Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "ASP3\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:26:29.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:26:29.271Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "ASP3\\Controllers\\CalcController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAIAwwDUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:26:05.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:26:05.403Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "ASP3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:16:07.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:16:07.189Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "ASP3\\Services\\CalcService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:16:04.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:16:04.71Z"
             }
           ]
         }
